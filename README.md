@@ -24,7 +24,7 @@ To utilize the RLC meter:
 2. Upload the Arduino file to the Atmega328p microcontroller using the Arduino IDE.
 3. Power on the RLC meter and interact with the device using the potentiometer to navigate between R, L, and C meter sections.
 4. Obtain precise measurements of resistance, inductance, and capacitance for electronic component analysis.
-If you require further information or details about the project, please refer to the project report for comprehensive documentation and insights.
+- If you require further information or details about the project, please refer to the project report for comprehensive documentation and insights.
 
 ## Contribution
 
